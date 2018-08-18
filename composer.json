@@ -6,8 +6,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Krzysztof Frydrych",
-            "email": ""
+            "name": "Krzysztof Frydrych"
         }
     ],
     "minimum-stability": "dev",
